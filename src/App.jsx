@@ -7,7 +7,7 @@ const Header = () => {
 
     return (
         <div className="flex flex-row justify-between p-12">
-            <div className="text-2xl font-semibold tracking-wider text-gray-100">moorv</div>
+            <div className="text-2xl font-semibold tracking-wider text-gray-100">:moorv</div>
             <div className="flex gap-x-8">
                 <CustomBtn value='Sign up' isSolid={true}/>
                 <Link title="Login" />
